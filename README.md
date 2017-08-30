@@ -10,4 +10,4 @@ This project investigated supervised learning techniques among KNN, Trees, SVM, 
  
  data merge file: student-merge.R
  
- related images: img
+ related images: img folder
